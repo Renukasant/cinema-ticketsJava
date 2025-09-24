@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a `TicketService` for a cinema ticketing system. It adheres to the business rules and constraints provided in the coding exercise brief. The solution is written in **Java 21** and demonstrates clean, testable, and maintainable code.
+This project implements a `TicketService` for a cinema ticketing system. It adheres to the business rules and constraints provided in the DWP coding exercise brief. The solution is written in **Java 21** and demonstrates clean, testable, and maintainable code.
 
 ## Business Rules Implemented
 
@@ -28,5 +28,5 @@ This project implements a `TicketService` for a cinema ticketing system. It adhe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cinema-tickets.git
-   cd cinema-tickets
+   git clone https://github.com/Renukasant/cinema-ticketsJava.git
+   cd cinema-ticketsJava
